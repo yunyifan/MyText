@@ -31,6 +31,8 @@
     
     
     //  iOS 测试
+    
+    // ios  第二次测试
     [self creatCollectionView];
 }
 -(void)creatCollectionView{
