@@ -29,6 +29,8 @@
     self.title = @"精彩视频";
     self.view.backgroundColor = [UIColor whiteColor];
     
+    
+    //  iOS 测试
     [self creatCollectionView];
 }
 -(void)creatCollectionView{
