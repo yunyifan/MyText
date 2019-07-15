@@ -30,9 +30,9 @@
     self.view.backgroundColor = [UIColor whiteColor];
     
     
-    //  iOS 测试
+    //  iOS
     
-    // ios  1.1
+    // ios  1.1  1.1.5
     [self creatCollectionView];
 }
 -(void)creatCollectionView{
