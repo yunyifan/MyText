@@ -1,0 +1,9 @@
+platform :ios,'7.0'
+target 'IRDVideo' do
+    pod "Masonry"
+    pod "SDWebImage"
+    pod "AFNetworking", "~> 3.0"
+    pod "MBProgressHUD"
+    pod "MJRefresh"
+end
+
